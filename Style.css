@@ -44,3 +44,11 @@ iframe#tela{
     width: 266px;
     height: 470px;
 }
+
+a.icone > img{
+    width: 45px;
+    border-radius: 50%;
+    display: flow-root;
+    padding: 5px;
+    box-shadow: 1p 1p 1p black;
+}
